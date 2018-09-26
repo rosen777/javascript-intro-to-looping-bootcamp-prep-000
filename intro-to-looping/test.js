@@ -9,6 +9,7 @@ console.log(wrapGift(gifts[1]))
 console.log(wrapGift(gifts[2]))
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 for([initialization]; [condition]; [iteration]) {
   [loopBody];
 } 
@@ -17,6 +18,11 @@ for([initialization]; [condition]; [iteration]) {
 //   [loopBody];
 // } 
 >>>>>>> 78e05736134a25bd5b96cda5ae99cb09f3fd4239
+=======
+for([initialization]; [condition]; [iteration]) {
+  [loopBody];
+} 
+>>>>>>> 81a7c0ef9844b55e2eda8baebd3f105e03e4a7ce
 
 // i is set equal to 1
 // as long as i is less than 100 execute the 
@@ -32,6 +38,7 @@ for(var i = 1; i < 100; i++) {
 // Hello World the 2 time
 // Hello World the 3 time
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 // while([condition]) {
@@ -71,4 +78,6 @@ do {
   incrementVariable()
 } while(i < 5)
 >>>>>>> 78e05736134a25bd5b96cda5ae99cb09f3fd4239
+=======
+>>>>>>> 81a7c0ef9844b55e2eda8baebd3f105e03e4a7ce
 
